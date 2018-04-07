@@ -1,0 +1,42 @@
+F:\Forecast Shat (ред. 0.1)\Prognoz\bin\Release\Prognoz.exe.config
+F:\Forecast Shat (ред. 0.1)\Prognoz\bin\Release\Prognoz.exe
+F:\Forecast Shat (ред. 0.1)\Prognoz\bin\Release\Prognoz.pdb
+F:\Forecast Shat (ред. 0.1)\Prognoz\bin\Release\MathNet.Numerics.dll
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Release\Prognoz.csprojResolveAssemblyReference.cache
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Release\Prognoz.Form1.resources
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Release\Prognoz.Properties.Resources.resources
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Release\Prognoz.csproj.GenerateResource.Cache
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Release\Prognoz.exe
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Release\Prognoz.pdb
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Release\Prognoz.exe.config
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Release\Prognoz.exe
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Release\Prognoz.pdb
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Release\Prognoz.exe
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Release\Prognoz.pdb
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Release\MathNet.Numerics.dll
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Release\Prognoz.csprojResolveAssemblyReference.cache
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Release\Prognoz.Form1.resources
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Release\Prognoz.Properties.Resources.resources
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Release\Prognoz.Time_Pump.resources
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Release\Prognoz.csproj.GenerateResource.Cache
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\bin\Release\Prognoz.exe.config
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.exe
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.pdb
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\bin\Release\Prognoz.exe
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\bin\Release\Prognoz.pdb
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\bin\Release\MathNet.Numerics.dll
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.csprojResolveAssemblyReference.cache
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.Form1.resources
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.Properties.Resources.resources
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.Time_Pump.resources
+P:\phisCommon\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.csproj.GenerateResource.Cache
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\bin\Release\Prognoz.exe.config
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.exe
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.pdb
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\bin\Release\Prognoz.exe
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\bin\Release\Prognoz.pdb
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.csprojResolveAssemblyReference.cache
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.Form1.resources
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.Properties.Resources.resources
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.Time_Pump.resources
+C:\ФАЙЛЫ\НВАЭС-2\Блок 1\ФП\МКУ И ФИЗИЗМЕРЕНИЯ\Крит - прогноз\Исходники\Forecast Shat (Бор)\Prognoz\obj\Release\Prognoz.csproj.GenerateResource.Cache

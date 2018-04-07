@@ -1,0 +1,93 @@
+c:\users\phis7065\documents\visual studio 2013\Projects\Prognoz\Prognoz\bin\Debug\Prognoz.exe.config
+c:\users\phis7065\documents\visual studio 2013\Projects\Prognoz\Prognoz\bin\Debug\Prognoz.exe
+c:\users\phis7065\documents\visual studio 2013\Projects\Prognoz\Prognoz\bin\Debug\Prognoz.pdb
+c:\users\phis7065\documents\visual studio 2013\Projects\Prognoz\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+c:\users\phis7065\documents\visual studio 2013\Projects\Prognoz\Prognoz\obj\Debug\Prognoz.Form1.resources
+c:\users\phis7065\documents\visual studio 2013\Projects\Prognoz\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+c:\users\phis7065\documents\visual studio 2013\Projects\Prognoz\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+c:\users\phis7065\documents\visual studio 2013\Projects\Prognoz\Prognoz\obj\Debug\Prognoz.exe
+c:\users\phis7065\documents\visual studio 2013\Projects\Prognoz\Prognoz\obj\Debug\Prognoz.pdb
+H:\Prognoz\Prognoz\bin\Debug\Prognoz.exe.config
+H:\Prognoz\Prognoz\obj\Debug\Prognoz.exe
+H:\Prognoz\Prognoz\obj\Debug\Prognoz.pdb
+H:\Prognoz\Prognoz\bin\Debug\Prognoz.exe
+H:\Prognoz\Prognoz\bin\Debug\Prognoz.pdb
+H:\Prognoz\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+H:\Prognoz\Prognoz\obj\Debug\Prognoz.Form1.resources
+H:\Prognoz\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+H:\Prognoz\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\bin\Debug\Prognoz.exe.config
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\obj\Debug\Prognoz.exe
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\obj\Debug\Prognoz.pdb
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\bin\Debug\Prognoz.exe
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\bin\Debug\Prognoz.pdb
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\obj\Debug\Prognoz.Form1.resources
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+C:\Users\phis7065\Desktop\Prognoz\Prognoz\bin\Debug\MathNet.Numerics.dll
+F:\11111111\Prognoz\bin\Debug\Prognoz.exe.config
+F:\11111111\Prognoz\obj\Debug\Prognoz.exe
+F:\11111111\Prognoz\obj\Debug\Prognoz.pdb
+C:\Users\Михаил\Desktop\11111111\Prognoz\bin\Debug\Prognoz.exe.config
+C:\Users\Михаил\Desktop\11111111\Prognoz\obj\Debug\Prognoz.exe
+C:\Users\Михаил\Desktop\11111111\Prognoz\obj\Debug\Prognoz.pdb
+C:\Users\Михаил\Desktop\11111111\Prognoz\bin\Debug\Prognoz.exe
+C:\Users\Михаил\Desktop\11111111\Prognoz\bin\Debug\Prognoz.pdb
+C:\Users\Михаил\Desktop\11111111\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+C:\Users\Михаил\Desktop\11111111\Prognoz\obj\Debug\Prognoz.Form1.resources
+C:\Users\Михаил\Desktop\11111111\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+C:\Users\Михаил\Desktop\11111111\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+F:\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\Prognoz.exe.config
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.exe
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.pdb
+F:\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\Prognoz.exe
+F:\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\Prognoz.pdb
+F:\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\MathNet.Numerics.dll
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.Form1.resources
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+F:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+D:\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\Prognoz.exe.config
+D:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.exe
+D:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.pdb
+D:\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\Prognoz.exe
+D:\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\Prognoz.pdb
+D:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+D:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.Form1.resources
+D:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+D:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.Time_Pump.resources
+D:\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+D:\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\MathNet.Numerics.dll
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\Prognoz.exe.config
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.exe
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.pdb
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\Prognoz.exe
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\Prognoz.pdb
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\bin\Debug\MathNet.Numerics.dll
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.Form1.resources
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.Time_Pump.resources
+F:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. 0.1)\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Debug\Prognoz.exe.config
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.exe
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.pdb
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Debug\Prognoz.exe
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Debug\Prognoz.pdb
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.Form1.resources
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.Time_Pump.resources
+H:\ПРОГНОЗ КРИТИКИ\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Debug\Prognoz.exe.config
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.exe
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.pdb
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Debug\Prognoz.exe
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Debug\Prognoz.pdb
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\bin\Debug\MathNet.Numerics.dll
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.Form1.resources
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.Time_Pump.resources
+C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
