@@ -433,6 +433,13 @@ namespace Prognoz
             textBox2.Text = textBox1.Text;
         }
 
+        private void button4_Click_4(object sender, EventArgs e)
+        {
+            Time_Pump MyTimePump = new Time_Pump();
+            MyTimePump.Owner = this;
+            MyTimePump.Show();
+        }
+
 
 
     }

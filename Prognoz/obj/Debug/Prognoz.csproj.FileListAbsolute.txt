@@ -91,3 +91,13 @@ C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\P
 C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
 C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.Time_Pump.resources
 C:\Users\phis7065\Desktop\Forecast Shat (ред. прогноз по бору)\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
+D:\GitHub\Forecast-state\Prognoz\bin\Debug\Prognoz.exe.config
+D:\GitHub\Forecast-state\Prognoz\obj\Debug\Prognoz.exe
+D:\GitHub\Forecast-state\Prognoz\obj\Debug\Prognoz.pdb
+D:\GitHub\Forecast-state\Prognoz\bin\Debug\Prognoz.exe
+D:\GitHub\Forecast-state\Prognoz\bin\Debug\Prognoz.pdb
+D:\GitHub\Forecast-state\Prognoz\obj\Debug\Prognoz.csprojResolveAssemblyReference.cache
+D:\GitHub\Forecast-state\Prognoz\obj\Debug\Prognoz.Form1.resources
+D:\GitHub\Forecast-state\Prognoz\obj\Debug\Prognoz.Properties.Resources.resources
+D:\GitHub\Forecast-state\Prognoz\obj\Debug\Prognoz.Time_Pump.resources
+D:\GitHub\Forecast-state\Prognoz\obj\Debug\Prognoz.csproj.GenerateResource.Cache
